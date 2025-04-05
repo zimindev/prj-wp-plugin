@@ -1,1 +1,1 @@
-# project-wp-plugin
+# prj-wp-plugin
